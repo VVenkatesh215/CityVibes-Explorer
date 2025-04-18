@@ -58,8 +58,8 @@ Note: The .env file is ignored via .gitignore.
 ---
 
 ## Bonus Features:
-Modular, testable code
-Rate limit handling and retries
-Environment variable security
-Caching for performance boost
+1. Modular, testable code
+2. Rate limit handling and retries
+3. Environment variable security
+4. Caching for performance boost
 ---
