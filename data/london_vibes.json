@@ -1,0 +1,37 @@
+{
+    "weather": null,
+    "news": [],
+    "places": [],
+    "stocks": [
+        {
+            "symbol": "EWU",
+            "name": "EWU",
+            "price": 36.97,
+            "change": 0.42,
+            "change_percent": 1.1491
+        },
+        {
+            "symbol": "ISF.L",
+            "name": "ISF.L",
+            "price": 812.5,
+            "change": 1.0,
+            "change_percent": 0.1232
+        }
+    ],
+    "events": [
+        {
+            "name": "West End Musical - Les Mis\u00e9rables",
+            "venue": "Queen's Theatre",
+            "date": "2025-04-19 13:28:34.578479",
+            "price": "\u00a345+",
+            "url": "https://example.com/events/lesmis"
+        },
+        {
+            "name": "Hyde Park Summer Festival",
+            "venue": "Hyde Park",
+            "date": "2025-04-25 13:28:34.578479",
+            "price": "\u00a325",
+            "url": "https://example.com/events/hydepark"
+        }
+    ]
+}

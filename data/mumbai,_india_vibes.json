@@ -1,0 +1,71 @@
+{
+    "weather": {
+        "temperature": 28.5,
+        "conditions": "clear sky",
+        "humidity": 70,
+        "wind_speed": 4.74,
+        "city": "Mumbai, India"
+    },
+    "news": [],
+    "places": [
+        {
+            "name": "Jogger's Park",
+            "address": "Off Carter Road (Bandra West), Mumbai 400050, Mah\u0101r\u0101shtra",
+            "category": "Park",
+            "rating": 9.2,
+            "price_level": null
+        },
+        {
+            "name": "Carter Road Promenade",
+            "address": "Naushad Ali Marg (Bandra (W)), Mumbai 400052, Mah\u0101r\u0101shtra",
+            "category": "Scenic Lookout",
+            "rating": 9.0,
+            "price_level": null
+        },
+        {
+            "name": "Powai Lakefront Promenade",
+            "address": "Adi Shankaracharya Marg (Powai), Mumbai 120446, Mah\u0101r\u0101shtra",
+            "category": "Landmarks and Outdoors",
+            "rating": 8.6,
+            "price_level": null
+        },
+        {
+            "name": "Shivaji Park",
+            "address": "81 Dev Kunj, Veer Savarkar Marg, Mumbai 400028, Mah\u0101r\u0101shtra",
+            "category": "Playground",
+            "rating": 8.7,
+            "price_level": null
+        },
+        {
+            "name": "Carters",
+            "address": "",
+            "category": "Scenic Lookout",
+            "rating": 8.2,
+            "price_level": null
+        }
+    ],
+    "stocks": [
+        {
+            "symbol": "SPY",
+            "name": "S&P 500",
+            "price": 526.41,
+            "change": 0.75,
+            "change_percent": 0.1427
+        },
+        {
+            "symbol": "DIA",
+            "name": "Dow Jones",
+            "price": 391.36,
+            "change": -5.2105,
+            "change_percent": -1.3139
+        },
+        {
+            "symbol": "QQQ",
+            "name": "NASDAQ",
+            "price": 444.1,
+            "change": -0.08,
+            "change_percent": -0.018
+        }
+    ],
+    "events": []
+}

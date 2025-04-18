@@ -1,0 +1,72 @@
+{
+    "weather": {
+        "temperature": 10.49,
+        "conditions": "clear sky",
+        "humidity": 31,
+        "wind_speed": 1.26,
+        "city": "New York"
+    },
+    "news": [
+        {
+            "title": "Fyre Fest 2 future in doubt as organizers look for new location | CNN",
+            "description": "The second go at Fyre Fest will apparently have to wait a little bit longer, as organizers for the festival say that it will no longer be taking place in Playa del Carmen.",
+            "source": "CNN",
+            "published_at": "2025-04-17 01:26:13",
+            "url": "https://www.cnn.com/2025/04/16/entertainment/fyre-fest-2-future-in-doubt/index.html"
+        }
+    ],
+    "places": [
+        {
+            "name": "Madison Square Park",
+            "address": "23 Madison Ave (btwn E 23rd & E 26th St), New York, NY 10010",
+            "category": "Park",
+            "rating": 9.5,
+            "price_level": null
+        },
+        {
+            "name": "Union Square Park",
+            "address": "Union Sq E/W & Broadway (btwn E 14th & E 17th St), New York, NY 10003",
+            "category": "Playground",
+            "rating": 9.1,
+            "price_level": null
+        },
+        {
+            "name": "Washington Square Park",
+            "address": "5 Avenue A (btwn MacDougal St & University Pl), New York, NY 10009",
+            "category": "Urban Park",
+            "rating": 9.5,
+            "price_level": null
+        },
+        {
+            "name": "Jemmy's Dog Run",
+            "address": "Broadway & 5th Ave (btwn 24th & 25th St), New York, NY 10010",
+            "category": "Dog Park",
+            "rating": 8.5,
+            "price_level": null
+        },
+        {
+            "name": "Washington Square Dog Run",
+            "address": "Washington Sq S, New York, NY 10012",
+            "category": "Dog Park",
+            "rating": 9.2,
+            "price_level": null
+        }
+    ],
+    "stocks": [],
+    "events": [
+        {
+            "name": "Broadway Show - Hamilton",
+            "venue": "Richard Rodgers Theatre",
+            "date": "2025-04-20 11:43:14.968795",
+            "price": "$199+",
+            "url": "https://example.com/events/hamilton"
+        },
+        {
+            "name": "Central Park Summer Concert Series",
+            "venue": "Central Park Great Lawn",
+            "date": "2025-04-23 11:43:14.968795",
+            "price": "Free",
+            "url": "https://example.com/events/cpconcert"
+        }
+    ]
+}

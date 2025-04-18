@@ -1,0 +1,79 @@
+{
+    "weather": {
+        "temperature": 38.99,
+        "conditions": "clear sky",
+        "humidity": 19,
+        "wind_speed": 1.95,
+        "city": "Delhi"
+    },
+    "news": [
+        {
+            "title": "The Fifth Floor: India's 'godwoman'",
+            "description": "Delhi correspondent Divya Arya recently met a woman who claims to perform miracles. She\u2019s called Radhe Maa and her devotees see her as a God. She\u2019s not the only person in India who claims to have god-like powers, but she is unusual as mostly these people are \u2026",
+            "source": "BBC News",
+            "published_at": "2025-04-05 12:30:00",
+            "url": "https://www.bbc.co.uk/programmes/p0l0zktz"
+        }
+    ],
+    "places": [
+        {
+            "name": "Red Fort (Lal Qila)",
+            "address": "Mahatma Gandhi Marg (Netaji Subhash Marg), New Delhi 941735, Delhi",
+            "category": "Historic and Protected Site",
+            "rating": 8.4,
+            "price_level": null
+        },
+        {
+            "name": "Humayun\u2019s Tomb",
+            "address": "Bharat Scouts And Guides Marg, New Delhi 110013, Delhi",
+            "category": "Monument",
+            "rating": 9.0,
+            "price_level": null
+        },
+        {
+            "name": "Lodhi Gardens",
+            "address": "Lodhi Road, New Delhi 110004, Delhi",
+            "category": "Park",
+            "rating": 9.0,
+            "price_level": null
+        },
+        {
+            "name": "India Gate",
+            "address": "Gate C-Hexagon (Rajpath), New Delhi 110001, Delhi",
+            "category": "Monument",
+            "rating": 8.5,
+            "price_level": null
+        },
+        {
+            "name": "Amar Jawan Jyoti",
+            "address": "Gate, New Delhi, Delhi",
+            "category": "Sculpture Garden",
+            "rating": 8.5,
+            "price_level": null
+        }
+    ],
+    "stocks": [
+        {
+            "symbol": "SPY",
+            "name": "S&P 500",
+            "price": 526.41,
+            "change": 0.75,
+            "change_percent": 0.1427
+        },
+        {
+            "symbol": "DIA",
+            "name": "Dow Jones",
+            "price": 391.36,
+            "change": -5.2105,
+            "change_percent": -1.3139
+        },
+        {
+            "symbol": "QQQ",
+            "name": "NASDAQ",
+            "price": 444.1,
+            "change": -0.08,
+            "change_percent": -0.018
+        }
+    ],
+    "events": []
+}

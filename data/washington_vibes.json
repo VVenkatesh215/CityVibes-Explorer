@@ -1,0 +1,79 @@
+{
+    "weather": {
+        "temperature": 7.85,
+        "conditions": "clear sky",
+        "humidity": 54,
+        "wind_speed": 2.19,
+        "city": "Washington"
+    },
+    "news": [
+        {
+            "title": "Internal Trump administration document reveals massive budget cut proposal for federal health agencies | CNN Politics",
+            "description": "The Trump administration is formulating plans to cut roughly a third of the federal health budget, eliminate dozens of programs and vastly whittle down health agencies, according to an internal document reviewed by CNN.",
+            "source": "CNN",
+            "published_at": "2025-04-16 22:48:52",
+            "url": "https://www.cnn.com/2025/04/16/politics/trump-rfk-jr-budget-cut-health/index.html"
+        }
+    ],
+    "places": [
+        {
+            "name": "National Mall",
+            "address": "Constitution Avenue (btwn 1st & 17th St), Washington, D.C. 20024",
+            "category": "Landmarks and Outdoors",
+            "rating": 9.5,
+            "price_level": null
+        },
+        {
+            "name": "The White House",
+            "address": "1600 Pennsylvania Ave NW (btwn 15th St NW & 17th St NW), Washington, D.C. 20500",
+            "category": "Monument",
+            "rating": 8.8,
+            "price_level": null
+        },
+        {
+            "name": "Lincoln Memorial Reflecting Pool",
+            "address": "W Potomac Park (btwn Lincoln & World War II Memorials), Washington, D.C. 20024",
+            "category": "Monument",
+            "rating": 9.2,
+            "price_level": null
+        },
+        {
+            "name": "Constitution Gardens",
+            "address": "1900 Constitution Ave NE, Washington, D.C. 20245",
+            "category": "Garden",
+            "rating": 8.9,
+            "price_level": null
+        },
+        {
+            "name": "Tidal Basin",
+            "address": "W Basin Dr SW (at Independence Ave SW), Washington, D.C. 20024",
+            "category": "Lake",
+            "rating": 9.3,
+            "price_level": null
+        }
+    ],
+    "stocks": [
+        {
+            "symbol": "SPY",
+            "name": "S&P 500",
+            "price": 526.41,
+            "change": 0.75,
+            "change_percent": 0.1427
+        },
+        {
+            "symbol": "DIA",
+            "name": "Dow Jones",
+            "price": 391.36,
+            "change": -5.2105,
+            "change_percent": -1.3139
+        },
+        {
+            "symbol": "QQQ",
+            "name": "NASDAQ",
+            "price": 444.1,
+            "change": -0.08,
+            "change_percent": -0.018
+        }
+    ],
+    "events": []
+}
